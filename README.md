@@ -13,7 +13,7 @@ Bonus: Can you do this in one pass ?
 
 [C++ Solution](Solutions/C++/Problem001.cpp)
 
-Java Solution
+[Java Solution](Solutions/Java/Problem001.java)
 
 [Python Solution](Solutions/Python/Problem001.py)
 
