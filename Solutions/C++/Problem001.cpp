@@ -9,7 +9,7 @@ bool resolveProblem001(std::vector<int>& array, int k) {
     
     for(int i = 0; i < array.size(); i++) {
         int element = array.at(i);
-        std::cout << array.at(i) << std::endl;
+
         if(tempSolutions.find(element) != tempSolutions.end()) {
             return true;
         }

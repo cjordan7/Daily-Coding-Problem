@@ -11,7 +11,7 @@ Bonus: Can you do this in one pass ?
 
 [C++ Solution](Solutions/C++/Problem001.cpp)
 
-Swift Solution
+[Swift Solution](Solutions/Swift/Problem001.swift)
 
 Objective C Solution
 
