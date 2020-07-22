@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  CPPSolutions
-//
-//  Created by Cosme Jordan on 22.07.20.
-//  Copyright © 2020 Cosme Jordan. All rights reserved.
-//
 
 #include <iostream>
 #include <vector>
