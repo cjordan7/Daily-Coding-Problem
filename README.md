@@ -7,9 +7,9 @@ Solutions to dailycodingproblem.com
 Given a list of numbers, return whether any two sums to k.
 For example, given [10, 15, 3, 7] and k of 17, return true since 10 + 7 is 17.
 
-Bonus: Can you do this in one pass?
+Bonus: Can you do this in one pass ?
 
-C++ Solution
+[C++ Solution](Solutions/C++/Problem001.cpp)
 
 Swift Solution
 
