@@ -19,7 +19,7 @@ Bonus: Can you do this in one pass ?
 
 [Swift Solution](Solutions/Swift/Problem001.swift)
 
-[Objective C Solution](Solutions/Objective C/Problem001.m)
+[Objective C Solution](Solutions/ObjectiveC/Problem001.m)
 
 Javascript Solution
 
