@@ -21,8 +21,6 @@ Bonus: Can you do this in one pass ?
 
 [Objective C Solution](Solutions/ObjectiveC/Problem001.m)
 
-Javascript Solution
-
 --------
 
 ### Problem 2
@@ -38,7 +36,7 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division ?
 
-C++ Solution
+[C++ Solution](Solutions/C++/Problem002.cpp)
 
 Java Solution
 
@@ -48,4 +46,21 @@ Swift Solution
 
 Objective C Solution
 
-Javascript Solution
+--------
+
+### Problem 3
+
+This problem was asked by Google.
+
+Given the root to a binary tree, implement serialize(root), which serializes the tree
+into a string, and deserialize(s), which deserializes the string back into the tree.
+
+C++ Solution
+
+Java Solution
+
+Python Solution
+
+Swift Solution
+
+Objective C Solution
