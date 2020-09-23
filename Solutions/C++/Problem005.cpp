@@ -15,17 +15,15 @@ int main(int argc, char** argv) {
                 };
 
     auto car = [](auto f) {
-                   auto e = [](auto x, auto y) {
+                   return f([](auto x, auto y) {
                                 return x;
-                            };
-                   return f(e);
+                            });
                };
 
     auto cdr = [](auto f) {
-                   auto e = [](auto x, auto y) {
+                   return f([](auto x, auto y) {
                                 return y;
-                            };
-                   return f(e);
+                            });
                };
 
     assert(car(cons(1, 2)) == 1);
