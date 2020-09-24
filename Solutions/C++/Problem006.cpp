@@ -107,7 +107,7 @@ void XORList::clean() {
     Node* previous = nullptr;
     Node* next = nullptr;
 
-    if (node == nullptr) {
+    if(node == nullptr) {
         return;
     }
 
