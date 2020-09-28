@@ -4,6 +4,8 @@
 #include <algorithm>
 
 int maxNonConsecutive(std::vector<int>& array) {
+    std::vector<int> a;
+
     int next = 0;
     int newNext = 0;
     int previous = array.at(0);

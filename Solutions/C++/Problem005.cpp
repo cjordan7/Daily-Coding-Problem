@@ -1,8 +1,8 @@
 
 #include <iostream>
 #include <functional>
-#include <assert.h>;
-
+#include <assert.h>
+#include <vector>
 
 int main(int argc, char** argv) {
     // cons(a, b) constructs a pair, and car(pair) and cdr(pair) returns the first
